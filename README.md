@@ -22,6 +22,7 @@ const ZOOM = 17;
 ```
 
 >CENTER и ZOOM, это данные, которые можно получить по данной ссылке [https://yandex.ru/map-constructor/location-tool/](https://yandex.ru/map-constructor/location-tool/), введя здесь адрес, который нам необходим 
+
 ![Пример скриншота](./source/img/location-tools.png)
 
 ## Данные для метки
