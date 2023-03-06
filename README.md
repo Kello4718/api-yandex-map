@@ -11,6 +11,7 @@
 ```
 
 >скрипт, который нужно подключить в index.html, где значение у ключа apikey можно получить перейдя по ссылке [https://developer.tech.yandex.ru/services](https://developer.tech.yandex.ru/services) и нажав на JavaScript API и HTTP Геокодер
+
 ![Пример скриншота](./source/img/include.png)
 
 ## Основные данные
